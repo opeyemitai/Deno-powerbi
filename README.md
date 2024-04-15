@@ -18,3 +18,7 @@ In this project primary data was gotten from 115 respondents. • Data cleaning 
 ## Data Visualization
 
 ![deno visuals](https://github.com/opeyemitai/Deno-powerbi/assets/119592062/e6178d53-de8e-4a5c-bc51-58ab1d461b0d)
+
+## Tool used
+
+Power BI
